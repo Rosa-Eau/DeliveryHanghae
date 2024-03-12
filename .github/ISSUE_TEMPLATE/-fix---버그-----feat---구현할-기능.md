@@ -1,11 +1,14 @@
 ---
 name: "[fix]: 버그 /  [feat]: 구현할 기능"
-about: _이슈에 대한 내용을 간략하게 적어주세요_
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+## 요약
+_이슈에 대한 내용을 간략하게 적어주세요_
 
 ## 완료조건
 _feature의 경우, 어떤 동작이 구현되면 작업이 완료되나요? 구체적일수록 좋아요._
